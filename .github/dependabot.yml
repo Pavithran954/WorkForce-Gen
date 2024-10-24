@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"  # Update this with your package ecosystem
+    directory: "/"  # Update this with the directory containing your package manifests
+    schedule:
+      interval: "daily"  # Update the frequency of dependency checks
+    commit-message:
+      prefix: "chore(deps):"  # Customize the commit message prefix
