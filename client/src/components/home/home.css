@@ -5,7 +5,8 @@
 }
 
 .home_p {
-  color: red;
+  color: black;
+  font-size: large;
   margin-top: 80px !important;
   font-weight: bold;
 }

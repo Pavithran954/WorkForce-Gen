@@ -25,7 +25,7 @@ const Navbar = () => {
         <div className="container-fluid">
           <div className="navbar-items ">
             <Link className="navbar-brand" to="/">
-              WorkForce Gen
+              WorkGen
             </Link>
           </div>
           <div className="navbar-items">
@@ -73,7 +73,7 @@ const Navbar = () => {
                         aria-current="page"
                         to="/admin"
                       >
-                        <PeopleIcon /> Employees
+                        <PeopleIcon />Employees
                       </Link>
                     </li>
                     <li className="nav-item">
